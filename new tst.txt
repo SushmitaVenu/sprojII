@@ -1,0 +1,4 @@
+#new file
+addition of this file with data will check for modified files whether being added into github.
+add this cmd
+git update-index --no-assume-unchanged path/to/file.

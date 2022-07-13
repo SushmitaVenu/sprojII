@@ -1,0 +1,6 @@
+# crtng a new file.
+this is 2nd file in repoII.i am editing this file.
+i am editing this again after reset.
+git rm --cached -r 
+this removes the file from the index.
+git reset then rests it back.
